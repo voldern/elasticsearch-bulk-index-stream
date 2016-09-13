@@ -1,8 +1,0 @@
-{
-    "extends": "../.eslintrc",
-    "rules": {
-        "no-new": 0,
-        "new-cap": 0,
-        "no-unused-expressions": 0
-    }
-}

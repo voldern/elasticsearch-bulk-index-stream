@@ -1,9 +1,0 @@
-{
-    "index": "indexName",
-    "id": "recordId",
-    "type": "recordType",
-    "action": "update",
-    "body": {
-        "foo": "bar"
-    }
-}
